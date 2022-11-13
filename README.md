@@ -1,2 +1,2 @@
-# discord-bot
-A fully featured Discord bot template
+# modmail
+An easy-to-use self-hostable modmail bot
